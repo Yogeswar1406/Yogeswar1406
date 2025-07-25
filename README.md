@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m K Veera Brahmendra Siva Yogeswar Reddy
 - 👀 I’m interested in Web Development and Machine Learning Projects
-- 🌱 I’m currently learning Basics of Data Science and Machnine Learning
+- 🌱 I’m currently learning Basics of Machnine Learning
 - 📫 How to reach me **kasireddyyogeswarreddy@gmail.com**
 
 Feel free to explore my repositories and reach out. Looking forward to connecting with you!
